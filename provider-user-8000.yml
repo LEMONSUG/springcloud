@@ -25,7 +25,7 @@ eureka:
     service-url:
       defaultZone: http://localhost:7000/eureka
   instance:
-    instance-id: provider-user-8000  #多个服务id必须不同
+    instance-id: provider-user-8001  #多个服务id必须不同
     prefer-ip-address: true          #是否显示IP和端口 
     
 
